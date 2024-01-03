@@ -15,4 +15,12 @@
 <a href="https://www.linkedin.com/in/arvin-mohammadi/">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+<a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
 
+<details>
+  <summary>📈 Stats</summary>
+  <br>
+  My Github Stats
+</details>
