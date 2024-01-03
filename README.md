@@ -6,7 +6,7 @@
 - 💻 Current Project: Delta Parallel Robot Motion Planning and Computer Vision
 
 <p align="center">
-<a href="arvin1844m@gmail.com">
+<a href="mailto:arvin1844m@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://drive.google.com/file/d/1VekKPFqut3tCxhOsDL2RE2qjYVnmh6bp/view?usp=sharing">
