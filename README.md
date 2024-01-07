@@ -18,7 +18,10 @@
 <a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ'>
     <img src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-
+<a href='https://medium.com/@arvin-mohammadi'>
+    <img src='https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=black'>
+</a>
+  
 <details>
   <summary>📈 Stats</summary>
   <br>
