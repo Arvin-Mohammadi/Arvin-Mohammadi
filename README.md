@@ -6,7 +6,7 @@
 
 <div>
   <p align="center"><b><i>
-    Undergrad of University of Tehran, Mechanical Engineering Dept. <br>
+    University of Tehran, Mechanical Engineering Dept. Undergrad <br>
     Robotics Engineer | Game Developer 
   </p></b></i>
 </div>
