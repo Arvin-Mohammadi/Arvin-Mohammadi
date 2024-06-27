@@ -6,30 +6,32 @@
 - 💻 Currently Working on Final Undergrad Project
 
 <p align="center">
-<a href="mailto:arvin.mohammadi@ut.ac.ir">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/arvin-mohammadi/">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ'>
-    <img src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href='https://orcid.org/my-orcid?orcid=0000-0003-4533-463X'>
-    <img src='https://img.shields.io/badge/orcid-badge?style=flat-square&logo=orcid&logoColor=rgb'>
-</a>
-<a href='https://www.researchgate.net/profile/Arvin-Mohammadi-3'>
-    <img src='https://img.shields.io/badge/researchgate-badge?style=flat-square&logo=researchgate&logoColor=black&labelColor=white&color=black'>
-</a>
+  Academic & Professional
+  <a href="mailto:arvin.mohammadi@ut.ac.ir">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/arvin-mohammadi/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ'>
+      <img src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+  </a>
+  <a href='https://orcid.org/my-orcid?orcid=0000-0003-4533-463X'>
+      <img src='https://img.shields.io/badge/orcid-badge?style=flat-square&logo=orcid&logoColor=rgb'>
+  </a>
+  <a href='https://www.researchgate.net/profile/Arvin-Mohammadi-3'>
+      <img src='https://img.shields.io/badge/researchgate-badge?style=flat-square&logo=researchgate&logoColor=black&labelColor=white&color=black'>
+  </a>
 
 
 <p align="center">
-<a href="mailto:arvin1844m@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href='https://medium.com/@arvin-mohammadi'>
-    <img src='https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=black'>
-</a>
+  Personal
+  <a href="mailto:arvin1844m@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href='https://medium.com/@arvin-mohammadi'>
+      <img src='https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=black'>
+  </a>
 
 <details>
   <summary>📈 Stats</summary>
