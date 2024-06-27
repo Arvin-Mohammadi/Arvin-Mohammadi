@@ -60,7 +60,7 @@
 
 <div>
   <p align="center">
-    Hail, dear friend, whom hast chanced upon mine humble corner of the internet.
+    Hail, dear friend, whom hast chanced upon mine humble corner of the internet. <br>
     I'm currently working on a my final undergrad project but I also look forward to publishing my first game
   </p>
 </div>
