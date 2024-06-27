@@ -57,10 +57,16 @@
   <img src="https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/0561e7e1-d87d-4bd8-aaad-429e3694b68d" alt="Acheron Facility Game" title="Acheron Facility Game">
 </p>
 
+<div>
+  <p align="center"><b><i> 
+    Hail, dear friend, whom hast chanced upon mine humble corner of the internet. 
+  </p></b></i>
+</div>
+
+<br><br><br><br><br>
 
 <div>
   <p align="center">
-    Hail, dear friend, whom hast chanced upon mine humble corner of the internet. <br>
-    I'm currently working on a my final undergrad project but I also look forward to publishing my first game
+    I'm currently working on a my final undergrad project but I also look forward to publishing my first game "Acheron Facility"
   </p>
 </div>
