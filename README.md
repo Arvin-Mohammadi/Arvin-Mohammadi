@@ -1,4 +1,4 @@
-![github-contribution-grid-snake-dark](https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/f3ebee16-b460-441d-93d2-bf2324270980)<div>
+<div>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Arvin+Mohammadi;Robotics+Engineer+%26+Game+Developer" alt="Typing SVG" /></a>
 </p>
@@ -63,3 +63,5 @@
     Hail, dear friend, whom hast chanced upon mine humble corner of the internet
   </p>
 </div>
+
+![github-contribution-grid-snake-dark](https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/f3ebee16-b460-441d-93d2-bf2324270980)
