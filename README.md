@@ -63,10 +63,6 @@
   </p></b></i>
 </div>
 
-<br><br><br><br><br>
+<br><br>
 
-<div>
-  <p align="center">
-    I'm currently working on a my final undergrad project but I also look forward to publishing my first game "Acheron Facility"
-  </p>
-</div>
+My name is Arvin and I know some stuff about Rbootics and Game Development. I'm currently working on my final undergrad project which is titled "Experimental Comparison Study of Different Trajectory Planning Methods for the Delta Parallel Robot", a mouthful I know. But I also look forward to publishing my first game "Acheron Facility" ... hopefully soon after finishing my final project
