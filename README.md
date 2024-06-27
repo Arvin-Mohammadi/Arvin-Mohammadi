@@ -60,10 +60,7 @@
 
 <div>
   <p align="center">
-    Hail, dear friend, whom hast chanced upon mine humble corner of the internet
+    Hail, dear friend, whom hast chanced upon mine humble corner of the internet.
+    I'm currently working on a my final undergrad project but I also look forward to publishing my first game
   </p>
 </div>
-
-<p align="center">
-  <img src="https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/f3ebee16-b460-441d-93d2-bf2324270980">
-</p>
