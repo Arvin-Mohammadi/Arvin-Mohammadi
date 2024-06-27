@@ -64,4 +64,6 @@
   </p>
 </div>
 
-![github-contribution-grid-snake-dark](https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/f3ebee16-b460-441d-93d2-bf2324270980)
+<p align="center">
+  <img src="https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/f3ebee16-b460-441d-93d2-bf2324270980">
+</p>
