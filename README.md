@@ -9,9 +9,6 @@
 <a href="mailto:arvin1844m@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://drive.google.com/file/d/1VekKPFqut3tCxhOsDL2RE2qjYVnmh6bp/view?usp=sharing">
-  <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>
 <a href="https://www.linkedin.com/in/arvin-mohammadi/">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -41,4 +38,4 @@
 </details>
 
 <p align="center">
-Hi everyone
+Hi dear friend who has stumbled into my little corner of internet. 
