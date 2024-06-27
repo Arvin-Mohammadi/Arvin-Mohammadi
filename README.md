@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="mailto:arvin.mohammadi@ut.ac.ir">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
   </a>
   <a href="https://www.linkedin.com/in/arvin-mohammadi/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&color=black">
   </a>
   <a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ'>
-      <img src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+      <img src='https://img.shields.io/badge/Google_Scholar-white?style=flat-square&logo=googlescholar&logoColor=white&color=black'>
   </a>
   <a href='https://orcid.org/my-orcid?orcid=0000-0003-4533-463X'>
-      <img src='https://img.shields.io/badge/orcid-badge?style=flat-square&logo=orcid&logoColor=rgb'>
+      <img src='https://img.shields.io/badge/ORCID-white?style=flat-square&logo=orcid&logoColor=white&color=black'>
   </a>
   <a href='https://www.researchgate.net/profile/Arvin-Mohammadi-3'>
       <img src='https://img.shields.io/badge/researchgate-badge?style=flat-square&logo=researchgate&logoColor=black&labelColor=white&color=black'>
@@ -34,17 +34,19 @@
 
 <p align="center">
   <a href="mailto:arvin1844m@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
   </a>
   <a href='https://medium.com/@arvin-mohammadi'>
-      <img src='https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=black'>
+      <img src='https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=white&color=black'>
   </a>
+  <a href='https://cara.app/frostbytestudio/all'>
+      <img src='https://img.shields.io/badge/Cara-white?style=flat-square&logo=craftcms&logoColor=white&color=black'>
+  </a>
+  <a href='https://www.instagram.com/frostbytegamestudio/'>
+      <img src='https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&color=black'>
+  </a>
+  
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthasmenethil-a&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthasmenethil-a&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthasmenethil-a&theme=dracula)
-
 
 <p align="center">
 Hi dear friend who has stumbled into my little corner of internet. 
