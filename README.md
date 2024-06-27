@@ -7,6 +7,8 @@
 
 <p align="center">
   Academic & Professional
+
+<p align="center">
   <a href="mailto:arvin.mohammadi@ut.ac.ir">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
@@ -26,6 +28,8 @@
 
 <p align="center">
   Personal
+
+<p align="center">
   <a href="mailto:arvin1844m@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
