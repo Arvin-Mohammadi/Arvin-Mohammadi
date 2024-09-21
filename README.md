@@ -40,9 +40,6 @@
     <a href="mailto:arvin1844m@gmail.com">
       <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
     </a>
-    <a href='https://medium.com/@arvin-mohammadi'>
-        <img src='https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=white&color=black'>
-    </a>
     <a href='https://cara.app/frostbytestudio/all'>
         <img src='https://img.shields.io/badge/Cara-white?style=flat-square&logo=craftcms&logoColor=white&color=black'>
     </a>
