@@ -43,9 +43,6 @@
     <a href='https://cara.app/frostbytestudio/all'>
         <img src='https://img.shields.io/badge/Cara-white?style=flat-square&logo=craftcms&logoColor=white&color=black'>
     </a>
-    <a href='https://www.instagram.com/frostbytegamestudio/'>
-        <img src='https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&color=black'>
-    </a>
   </p>
 </div>
 
