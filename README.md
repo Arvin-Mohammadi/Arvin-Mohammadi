@@ -46,6 +46,9 @@
     <a href='https://www.instagram.com/frostbytegamestudio/'>
         <img src='https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white'>
     </a>
+    <a href='https://frostbyte-studio.itch.io/'>
+        <img src='https://img.shields.io/badge/Itch-black?style=flat&logo=itchdotio&logoColor=white'>
+    </a>
   </p>
 </div>
 
