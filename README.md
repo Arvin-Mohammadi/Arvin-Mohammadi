@@ -27,9 +27,6 @@
     <a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ'>
         <img src='https://img.shields.io/badge/Google_Scholar-white?style=flat-square&logo=googlescholar&logoColor=white&color=black'>
     </a>
-    <a href='https://orcid.org/my-orcid?orcid=0000-0003-4533-463X'>
-        <img src='https://img.shields.io/badge/ORCID-white?style=flat-square&logo=orcid&logoColor=white&color=black'>
-    </a>
     <a href='https://www.researchgate.net/profile/Arvin-Mohammadi-3'>
         <img src='https://img.shields.io/badge/researchgate-badge?style=flat-square&logo=researchgate&logoColor=black&labelColor=white&color=black'>
     </a>
