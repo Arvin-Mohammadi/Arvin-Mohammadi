@@ -15,7 +15,7 @@
 
 <div>
   <p align="center">
-    Acadmeic / Professional
+    Professional / Acadmeic
   </p>
   <p align="center">
     <a href="mailto:arvin.mohammadi@ut.ac.ir">
@@ -34,7 +34,7 @@
         <img src='https://img.shields.io/badge/researchgate-badge?style=flat-square&logo=researchgate&logoColor=black&labelColor=white&color=black'>
     </a>
   <p align="center">
-    Personal
+    Personal / Game-Dev
   </p>
   <p align="center">
     <a href="mailto:arvin1844m@gmail.com">
