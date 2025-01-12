@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9d9e042-c2d3-4682-8c82-1693a19afef1" alt="Acheron Facility Game" title="Acheron Facility Game">
+  <img src="https://github.com/user-attachments/assets/27070fb0-c09a-4002-990b-abd851447aa7" title="Acheron Facility Game">
 </p>
 
 
