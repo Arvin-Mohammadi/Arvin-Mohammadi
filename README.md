@@ -49,14 +49,18 @@
     <a href='https://frostbyte-studio.itch.io/'>
         <img src='https://img.shields.io/badge/Itch-black?style=flat&logo=itchdotio&logoColor=white'>
     </a>
+    <a href='patreon.com/FrostByteStudio'>
+        <img src='https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white'>
+    </a>
   </p>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Arvin-Mohammadi/Arvin-Mohammadi/assets/69509720/0561e7e1-d87d-4bd8-aaad-429e3694b68d" alt="Acheron Facility Game" title="Acheron Facility Game">
+  <img src="https://github.com/user-attachments/assets/e9d9e042-c2d3-4682-8c82-1693a19afef1" alt="Acheron Facility Game" title="Acheron Facility Game">
 </p>
+
 
 <div>
   <p align="center"><b><i> 
