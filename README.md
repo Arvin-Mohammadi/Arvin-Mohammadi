@@ -64,7 +64,3 @@
     Hail, dear friend, whom hast chanced upon mine humble corner of the internet. 
   </p></b></i>
 </div>
-
-<br><br>
-
-My name is Arvin and I know some stuff about Rbootics and Game Development.
