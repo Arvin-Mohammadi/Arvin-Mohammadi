@@ -46,7 +46,7 @@
     <a href='https://frostbyte-studio.itch.io/'>
         <img src='https://img.shields.io/badge/Itch-black?style=flat&logo=itchdotio&logoColor=white'>
     </a>
-    <a href='patreon.com/FrostByteStudio'>
+    <a href='https://patreon.com/FrostByteStudio'>
         <img src='https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white'>
     </a>
   </p>
