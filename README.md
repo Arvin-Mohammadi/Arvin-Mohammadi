@@ -64,3 +64,5 @@
     Hail, dear friend, whom hast chanced upon mine humble corner of the internet. 
   </p></b></i>
 </div>
+
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
