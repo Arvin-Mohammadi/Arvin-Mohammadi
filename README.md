@@ -50,8 +50,7 @@
         <img src='https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white'>
     </a>
     <a href='https://www.reddit.com/user/FrostByteStudio/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button'>
-        <img src='https://img.shields.io/badge/Reddit%20-%20Black?style=flat-square&logo=reddit&logoColor=white&color=black
-'>
+        <img src='https://img.shields.io/badge/Reddit%20-%20Black?style=flat-square&logo=reddit&logoColor=white&color=black'>
     </a>
   </p>
 </div>
