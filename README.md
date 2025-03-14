@@ -37,9 +37,6 @@
     <a href="mailto:arvin1844m@gmail.com">
       <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
     </a>
-    <a href='https://cara.app/frostbytestudio/all'>
-        <img src='https://img.shields.io/badge/Cara-white?style=flat-square&logo=craftcms&logoColor=white&color=black'>
-    </a>
     <a href='https://www.instagram.com/frostbytegamestudio/'>
         <img src='https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white'>
     </a>
