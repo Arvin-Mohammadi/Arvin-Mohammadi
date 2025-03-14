@@ -37,6 +37,12 @@
     <a href="mailto:arvin1844m@gmail.com">
       <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
     </a>
+    <a href="https://www.instagram.com/frostbytegamestudio/">
+      <img src="https://img.shields.io/badge/Instagram%20-%20black?style=flat-square&logo=instagram&logoColor=Black">
+    </a>
+    <a href="https://bsky.app/profile/frostbytestudio.bsky.social">
+      <img src="https://img.shields.io/badge/Bluesky%20-%20black?style=flat-square&logo=bluesky&logoColor=white">
+    </a>
     <a href='https://frostbyte-studio.itch.io/'>
         <img src='https://img.shields.io/badge/Itch-black?style=flat&logo=itchdotio&logoColor=white'>
     </a>
