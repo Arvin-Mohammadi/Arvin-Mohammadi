@@ -21,9 +21,6 @@
     <a href="mailto:arvin.mohammadi@ut.ac.ir">
       <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
     </a>
-    <a href="https://www.linkedin.com/in/arvin-mohammadi/">
-      <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&color=black">
-    </a>
     <a href='https://scholar.google.com/citations?hl=en&user=he-M2gUAAAAJ'>
         <img src='https://img.shields.io/badge/Google_Scholar-white?style=flat-square&logo=googlescholar&logoColor=white&color=black'>
     </a>
