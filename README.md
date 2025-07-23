@@ -37,15 +37,3 @@
   </p>
 </div>
 
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/27070fb0-c09a-4002-990b-abd851447aa7" title="Acheron Facility Game">
-</p>
-
-
-<div>
-  <p align="center"><b><i> 
-    Hail, dear friend, whom hast chanced upon mine humble corner of the internet. 
-  </p></b></i>
-</div>
