@@ -11,11 +11,9 @@
   </p></b></i>
 </div>
 
----
-
 <div>
   <p align="center">
-    Professional / Acadmeic
+    More About Me
   </p>
   <p align="center">
     <a href="mailto:arvin.mohammadi@ut.ac.ir">
@@ -27,10 +25,6 @@
     <a href='https://www.researchgate.net/profile/Arvin-Mohammadi-3'>
         <img src='https://img.shields.io/badge/researchgate-badge?style=flat-square&logo=researchgate&logoColor=black&labelColor=white&color=black'>
     </a>
-  <p align="center">
-    Personal / Game-Dev
-  </p>
-  <p align="center">
     <a href="mailto:arvin1844m@gmail.com">
       <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
     </a>
